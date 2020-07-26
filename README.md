@@ -1,7 +1,7 @@
 # wdl.au3
-AutoIt3 bindings to [WinDrawLib](https://github.com/mity/windrawlib)
+[WinDrawLib](https://github.com/mity/windrawlib) wrapper for AutoIt3.
 
-### basic types
+### Basic types
 
 ```c++
 Point
@@ -15,7 +15,9 @@ Rect
 
 ```c++
 Matrix
-    m11, m12, m21, m22, dx, dy : float
+    m11, m12: float
+    m21, m22: float
+    dx, dy : float
 ```
 
 ```c++
@@ -25,5 +27,6 @@ PathSink
 
 ```
 
-### functions
+### Functions
 
+See [wdl.au3](https://github.com/small-autoit/wdl.au3/blob/master/wdl.au3)...
