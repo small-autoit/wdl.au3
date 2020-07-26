@@ -1,6 +1,8 @@
 # wdl.au3
 [WinDrawLib](https://github.com/mity/windrawlib) wrapper for AutoIt3.
 
+**Notice**: wdl.dll is built for x86 (32bit) only.
+
 ### Basic types
 
 ```c++
