@@ -30,3 +30,15 @@ PathSink
 ### Functions
 
 See [wdl.au3](https://github.com/small-autoit/wdl.au3/blob/master/wdl.au3)...
+
+### Examples
+
+See [tests](https://github.com/small-autoit/wdl.au3/tree/master/tests)...
+
+
+<h3 align='center'>
+    <a href='https://github.com/small-autoit/wdl.au3/blob/master/tests/flappy_bird.au3'>Simple Flappy Bird</a>
+</h3>
+<p align='center'>
+    <img src='https://github.com/small-autoit/wdl.au3/blob/master/tests/falppy_bird_demo.png?raw=true'>
+</p>
